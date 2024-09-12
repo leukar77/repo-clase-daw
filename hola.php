@@ -1,4 +1,4 @@
 <?php
-	echo "hola mundo\n";
+	@print  "hola {$argv[]1}\n";
 ?>
 
