@@ -1,2 +1,3 @@
 #AUTORES
-*Raquel Esteve Sanjuan <r.estevesanjuan@edu.gva.es>
+* Raquel Esteve Sanjuan <r.estevesanjuan@edu.gva.es>
+* Von Newman 
